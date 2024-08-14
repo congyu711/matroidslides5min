@@ -153,7 +153,7 @@ The family of linearly independent columns forms a matroid.
 == Spanning Trees
 #slide[
 #set text(size: 0.6em)
-A _spanning tree_ of a graph $G=(V,E)$ is a subgraph that is a subgraph and contains all the vertices of $G$ but no cycle.
+A _spanning tree_ of a graph $G=(V,E)$ is a subgraph of $G$ and contains all the vertices of $G$ but no cycle.
 
 #figure(
   numbering: none,
